@@ -1,6 +1,6 @@
 # My standard file structure for django projects
 1. \apps
-    -myapp
+    - myapp
 2. \media
 3. \mysite (name project django)
     - \settings
